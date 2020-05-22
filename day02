@@ -1,0 +1,5 @@
+昨天又复习了下，django创建新的app用的命令
+python manage.py startapp 你的app的名字
+
+今天准备把models写了
+初步先写一个博客的数据模型，数据库就用mysql，oracle就算待办吧
